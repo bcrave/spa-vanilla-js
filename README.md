@@ -1,4 +1,5 @@
 # spa-vanilla-js
+A single-page application built in vanilla Javascript.  No frameworks like Vue or React.
 
 ## To run
 - Clone this repo
